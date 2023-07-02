@@ -1,6 +1,6 @@
 # DevOps Project - Continuous Integration and Deployment with Jenkins
 
-This project demonstrates a Continuous Integration (CI) and Continuous Deployment (CD) pipeline using Jenkins, Docker, and Maven. The pipeline automates the build, test, and deployment processes for a Java Maven application.
+This project demonstrates a Continuous Integration (CI) and Continuous Deployment (CD) pipeline using Jenkins, Docker, and Maven. The pipeline automates the build, containerize, test, and deployment processes for a Java Maven application.
 
 ## Project Structure
 
